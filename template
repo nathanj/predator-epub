@@ -1,0 +1,244 @@
+% Predator at the Chessboard
+% Ward Farnsworth
+
+# Introductory Matters
+## A Short Guide to the Site
+### In Brief
+## Rationale for the Project
+### Why Tactics?
+### Why Another Book About Them?
+## The Elements of Tactics:  A Primer
+### The Double Threat
+### The Loose Piece
+### The Forcing Move
+### Strategy vs. Tactics
+## Notation; Jargon; the Look of the Site; Hard Copies
+### Notation and Jargon
+### The Value of the Pieces
+### Making the Site Easier to Read
+### About the Dinosaurs
+### Hard Copies
+## Acknowledgments and Bibliography
+### Alon Cohen
+### Tim Feinstein
+### Casey Haralson
+### Bibliography
+## Chess in Literature
+### Some Interesting Allusions to Chess
+
+# The Double Attack
+## The Knight Fork
+### Introduction
+### Seeing Potential Forks
+### The Pinned Guard
+### Exchanging Away the Guard
+### Distracting the Guard
+### Getting Out of Your Own Way
+### Unsuitable Targets
+### Playing Defective Knight Forks
+### Checking the King into Position
+### Using Multiple Checks
+### Using Mate Threats to Force Pieces into Position
+### Strategic Implications
+### Summary
+## The Queen Fork
+### Introduction
+### Simple Cases:  Forking the King and a Loose Piece
+### Using the Side of the Board During the Opening
+### Making the Forking Square Available
+### Loosening the Target by Exchanging It
+### Loosening the Target by Disabling its Guards
+### Moving the Enemy King into Position
+### Clearing the Path to the Forking Square
+### Clearing Paths to the Targets
+### More Complicated Cases
+### Using Mate Threats
+### Mate Threats with Attacks on Underdefended Pieces
+### Other Mating Threats
+### Attacking Two Loose Pieces
+### Attacking Two Loose Pieces:  More Procedures
+### The Enemy Queen as a Target
+### Summary; Strategic Implications
+## The Bishop Fork
+### Introduction
+### Bishop Forks One Move Away
+### Loosening the Forking Square
+### Loosening the Target and Forking Square
+### Moving the King into Position, etc
+### Bishop Forks of the King and Queen
+### Bishop Forks of Other Pieces
+### Playing Defective Bishop Forks
+### Strategic Implications
+## The Rook Fork
+### Introduction
+### Simple Cases
+### Creating a Target
+### Moving the King into Position
+### Clearing Paths
+### Working with Mate Threats
+### Strategic Implications
+## The Pawn Fork
+### Introduction
+### Exchanges to Create Working Pawn Forks
+### Forcing Pieces into Place with Threats and Checks
+### Forks By Marching Pawns
+### Strategic Implications
+
+# The Discovered Attack
+## Bishop Discoveries
+### Introduction to Discovered Attacks Generally
+### Introduction to Bishop Discoveries
+### The Classic Pattern
+### The Unmasking Piece Makes a Capture or Threat
+### Drawing the Enemy King into Place
+### Drawing the Target into Place
+### Clearing Needed Lines
+### Horizontal Discoveries
+### Introducing the Discovered Check
+### Removing Impediments to Discovered Checks
+### The Bishop and Rook Mate
+### Other Large Threats By the Stationary Piece
+### Horizontal Discovered Checks
+### Two-steppers:  Building the Kernel
+## Rook Discoveries
+### Introduction; Simple Cases
+### Threatening Mate
+### The Rook Discovers Check
+### Manufacturing Discovered Check
+### Two-steppers:  Building the Kernel
+### The Windmill
+## Knight Discoveries
+### Diagonal Patterns
+### Vertical and Horizontal Patterns
+### Building Knight Discoveries
+### Working with Mate Threats
+### More on Mate Threats: Vertical and Horizontal Patterns
+### Discovered Check with the Knight
+### Discovered Checks with Preliminary Exchanges
+### Discovered Mate Threats
+### Discovered Check Leading to Mate
+### Building the Kernel:  Diagonal Patterns
+### Building the Kernel:  Vertical and Horizontal Patterns
+## Pawn Discoveries
+### Introduction; Simple Cases
+### A Step Up in Complexity
+### Arranging Pawn Discoveries on Diagonals
+### Arranging Pawn Discoveries on Ranks and Files
+### Strategy and the Discovered Attack
+
+# The Pin and the Skewer
+## Arranging a Pin
+### Introduction
+### Simple Absolute Pins
+### Creating a Toothless Target
+### Upgrading the Value of the Target
+### Exchanges of the Target for Other Purposes
+### Clearing Excess Enemy Pieces
+### Consolidating Excess Enemy Pieces
+### Getting the Pinning Piece to the Pinning Square
+### Loosening the Pinning Square
+### Protecting the Pinning Piece
+### Pushing the Enemy King into Line
+### Making Use of Forced Interpositions
+### Making Use of Forced Captures
+### Using Threats and Captures without Check
+## Exploiting a Pin
+### Using Pawns to Attack the Pinned Piece
+### Ganging Up on the Pinned Piece
+### Using Checks to Separate the King from the Target
+### The Cross-Pin
+### Other Ways to Constrain the Pinned Queen
+## Other Patterns and Applications
+### Pinning a Piece to Take Its Protectorate
+### Pinning a Pawn to Take Its Protectorate
+### Pinning a Pawn in Front of the King as an Aid to Mate
+### Pins of Pieces to Allow Mate
+### Pins to Mating Squares
+### Breaking an Absolute Pin
+### Strategy and the Absolute Pin
+## The Relative Pin
+### Simple Relative Pins
+### Loosening the Screened Piece
+### Other Issues That Arise in Creating Relative Pins
+### Ganging Up on the Relatively Pinned Piece
+### Taking the Protectorate of the Relatively Pinned Piece
+### Taking the Protectorate:  More Involved Cases
+### Breaking a Relative Pin:  Moving the Screened Piece
+### Breaking a Relative Pin:  Moving the Pinned Piece
+## The Skewer
+### Simple Skewers Through the King
+### Simple Skewers Through the Queen
+### Simple Skewers Through Rooks
+### Substituting the King to Create a Skewer
+### Other Substitutions:  Queens, Rooks, etc
+### Checking the King into Position
+### Working with Multiple Checks
+### Getting the Skewering Piece to the Skewering Square
+### Consolidating Excess Enemy Pieces
+### Preventing the Middle Piece from Guarding the Target
+### Skewers Where Enemy Pieces are Underdefended
+### Breaking a Skewer
+### Strategic Implications
+
+# Removing the Guard
+## Capturing the Guard
+### Introduction to the Section; Simple Cases
+### Cases Involving Multiple Steps
+### When the Target is Protected Twice
+### Capturing the Guard of a Mating Square
+## Distracting the Guard (The Overworked Piece)
+### Simple Cases:  One Guard Protects Two Men
+### One Piece Guards a Mating Square and Something Else
+### When a Piece Guards Two Mating Squares
+### Adding a Mate Threat to Create an Overworked Piece
+### Distracting a Rook from Duties Up the Board
+### Forking Squares and the Overworked Piece
+## Attacking the Guard
+### Introduction
+### Checks to Drive the King Away from Guard Duty
+### Flush Checks (the Decoy)
+### Decoys on the Diagonal:  Bishop Check Sacrifices
+### Driving Off the Queen with a Threat
+### Using the Priority of Check
+### Attacks on the Queen to Loosen a Mating Square
+### Flush Attacks Against the Queen
+### Threats Against Rooks and Minor Pieces
+### Forking the Guard and Another Piece
+### Using Pawns to Threaten the Guard
+## Blocking the Guard (Interference)
+### Interference to Loosen a Piece
+### Interference to Loosen a Mating Square
+### Interference on the Penultimate Rank
+### Interference as Part of a Double Threat
+### Removing the Guard:  Strategic Implications
+
+# Mating Patterns
+## The Back Rank Mate
+### Introduction; Simple Cases
+### Dealing with Interpositions
+### Sealing Off the King's Flight Squares
+### Drawing Defenders Forward
+### The Role of the Bishop I:  Pinning Defenders
+### The Role of the Bishop II:  Preventing a Recapture
+### The Role of the Bishop III:  Driving Back the King
+### Applying Pressure Up Close
+### Combining Back Rank Themes with Forks
+### Combining Back Rank Themes with Discoveries
+### Combining Back Rank Themes with Pins
+### Combining Back Rank Themes with Removal of the Guard
+## Other Classic Mating Ideas
+### Introduction
+### Anderssen's Mate and Kindred Spirits:  Mating on h8
+### Morphy's Mate
+### Greco's Mate
+### Lolli's Mates; Damiano's Mate
+### The Knight As a Substitute in Morphy's Mating Pattern
+### The Knight As a Substitute in Greco's Pattern
+### Anastasia's Mate
+### The Arabian Mate
+### Blackburne's Mate and Kindred Spirits
+### Boden's Mate
+### The Greek Gift (generally)
+### The Greek Gift:  The King Goes to g6
+### The Smothered Mate
+### Legall's Mate and Pseudo-Sacrifice
