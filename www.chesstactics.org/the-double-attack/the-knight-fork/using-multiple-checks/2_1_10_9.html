@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>The Knight Fork - Using Multiple Checks | Predator at the Chessboard</title>
+    <meta name="description" content="Learn chess tactics taught in plain English; the most complete body of instruction on the subject yet written.">
+    <meta name="keywords" content="chess tactics, learn chess, learn chess tactics, chess, fork, pin, mating patterns">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../css/site-e0846dd100.css"><link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
+    <!--[if IE 8]>
+    <link rel="stylesheet" href="https://www.chesstactics.org/css/ie8-5f6900aa70.css"><![endif]-->
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-custom hidden-xs navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" data-target="#navigation-links" class="navbar-toggle btn btn-default"><span class="icon-bar visuallyhidden">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="../../../index.html" title="" class="navbar-brand"><img src="../../../img/logo.png"></a>
+        </div>
+        <div id="navigation-links" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="../../../index.html" title="">Contents</a></li>
+            <li><a href="http://www.wardfarnsworth.com/" title="" target="_blank">Author</a></li>
+            <li><a href="../../../links.html" title="">Links</a></li>
+            <li><a href="../../../news.html" title="">News</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <nav class="navbar navbar-default navbar-custom visible-xs">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" data-target="#navigation-links-xs" class="navbar-toggle btn btn-default"><span class="icon-bar visuallyhidden">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="../../../index.html" title="" class="navbar-brand"><img src="../../../img/logo.png"></a>
+        </div>
+        <div id="navigation-links-xs" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="../../../index.html" title="">Contents</a></li>
+            <li><a href="http://www.wardfarnsworth.com/" title="" target="_blank">Author</a></li>
+            <li><a href="../../../links.html" title="">Links</a></li>
+            <li><a href="../../../news.html" title="">News</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="hidden-xs fixed-navbar-body-space"></div><!--[if lt IE 8]><p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
+    <div id="tacticspage-indicator"></div>
+    <div class="container">
+      <div class="container fixed hidden-xs breadcrumbs">
+        <div class="row">
+          <div class="col-xs-12">
+            <ol class="breadcrumb tactics">
+              <li><a href="../introduction/2_1_1_1.html">The Double Attack.</a></li>
+              <li><a href="../introduction/2_1_1_1.html">The Knight Fork.</a></li>
+              <li><a href="2_1_10_1.html">Using Multiple Checks.</a></li>
+            </ol>
+          </div>
+        </div>
+      </div>
+      <div class="row visible-xs">
+        <div class="col-xs-12">
+          <ol class="breadcrumb tactics">
+            <li><a href="../introduction/2_1_1_1.html">The Double Attack.</a></li>
+            <li><a href="../introduction/2_1_1_1.html">The Knight Fork.</a></li>
+            <li><a href="2_1_10_1.html">Using Multiple Checks.</a></li>
+          </ol>
+        </div>
+      </div>
+      <div class="container fixed">
+        <div class="row">
+          <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-4 col-sm-offset-0">
+            <div class="tactics figure hidden-xs">
+              <!-- desktop figure--><img src="../../../gfx/figures/13_9_posted092803.gif"><span class="figure-label">Figure 2.1.10.9</span><span class="to-move-label"><span>[</span><span class="to-move">White to move</span><span>]</span></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row tactics-data">
+        <div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-4 col-sm-offset-0">
+          <div class="tactics figure visible-xs">
+            <div class="test relative">
+              <!-- mobile figure--><img src="../../../gfx/figures/13_9_posted092803.gif"><span class="figure-label">Figure 2.1.10.9</span><span class="to-move-label"><span>[</span><span class="to-move">White to move</span><span>]</span></span>
+            </div>
+            <div class="spacer hidden"></div>
+          </div>
+        </div>
+        <div class="vertical-spacer visible-md"></div>
+        <div class="vertical-spacer visible-sm"></div>
+        <div class="col-lg-5 col-md-6 col-sm-7">
+          <div class="tactics text">
+            <div class="padding hidden-xs"></div>
+            <div class="header">
+            </div>
+            <!-- tactics text-->
+            <p>Actually this one doesn't involve two checks, but it fits here because it does involve the search for a check after another forcing move.  The trouble from the outset is that neither of White's available checks are productive (Be6+ loses the bishop; Qxd5+ loses the queen).  Still, White sees that his knight is close to being able to deliver a game-ending fork at f7:  there it attacks the queen and <i>would</i> attack the king if it could be driven into the corner at h8.  Since checks don’t seem helpful in producing this result, White considers the next prominent way of forcing changes on the board:  captures.  The most prominent piece-for-a-piece capturing possibility is BxN, which leads to h7xB.  The important question about such an exchange, of course, is <i>what does it leave behind</i>?  What open lines?  It opens the h-file, so ask anew what checks are possible and with what consequences.  There is a fresh one:  Rh8+.  Black has to play KxR in reply (White’s knight guards the king’s flight square at f7); the check at h8 sucks the king onto that same square. </p>
+            <p>So now the king has moved, and whenever that happens you ask what checks have become available—especially given that the knight has been waiting to administer a fork at f7.  Indeed, Nf7+ is White’s only check then remaining.  It wins the queen.  (Black moves his king, and White plays NxQ.  Now Black recaptures BxN; and if the Black move of his king was to g8, then White now has the queen fork Qxd5+.)  What all this means is that the original BxN wins a piece, as Black cannot afford to recapture h7xB.  As we have seen, that often is the significance of seeing a fork:  not that you get to play it, but that you are able to make material gains because you realize (and your opponent realizes) that if your captures are avenged by your opponent he ends up the victim of an even worse double attack.  </p>
+            <p>Incidentally, it might have occurred to you that Black could reply to White’s 1. BxN with 1. …QxB, but this is worse.  The problem for Black is that White then plays 2. Qxd5+ (again, always looking for the next check) and now has tremendous pressure against the Black king's position.  The pressure may not result in immediate mate, but it produces heavy casualties: </p>
+            <p>(a) If Black moves his king to h8, White has 3. Rxh7+, which requires the Black queen to take the rook on h7 (the king can't move)—and then the queen gets taken by White’s knight:  4. NxQ.  (If Black recaptures KxN on h7, White has a queen fork:  5. Qh5+, which wins the rook on e8 and leads to mate soon after.  This last kicker might be hard for you to spot, because you have to see that by the fifth move the White queen would have clear paths from d5 to h5 and from h5 to the rook on e8.  But just seeing that Black loses his queen is enough for now.  (White also can do at least as well—maybe better—by playing 3. Nxh7, but let that pass for now; it's more complicated..)</p>
+            <p>(b) If Black instead replies to Qxd5+ by moving his king to f8, White has Nxh7+ and Black again must sacrifice his queen with QxN to put out the fire.  (If Black instead replies to Nxh7+ by moving his king over to e7, White plays BxBc5+; now Black’s only legal option is to interpose his queen on d6, losing it next move and getting mated soon after.) </p>
+            <p>There are some other possibilities, but White does pretty well in all of them.  White also does nicely by starting with Qf3, but that's a tale for another time. </p>
+            <p>Some of those variations sketched a moment ago take a little time to see.  The trick to them is to think relentlessly about what checks White might play in response to each of Black’s moves.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="navbar navbar-default navbar-fixed-bottom navbar-custom-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-xm-12">
+            <div class="navigation"><a href="2_1_10_8.html" class="btn btn-default previous"><i class="fa fa-caret-left"></i><span>Prev</span></a><span>9 of 9</span><a href="../using-mate-threats-to-force-pieces-into-position/2_1_11_1.html" class="btn btn-default next"><span>Next</span><i class="fa fa-caret-right"></i></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="content">
+        <div class="send-comment"><a href="mailto:wardfarnsworth@gmail.com">Click here to send a comment or correction</a></div>
+        <div class="copyright"><a href="http://creativecommons.org/licenses/by-nc-nd/2.5/" target="_blank" rel="license"><img src="../../../img/somerights20.png" alt="Creative Commons License"></a></div>
+      </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../../js/jquery-1.11.3.min.js"><\/script>')</script>
+    <script src="../../../js/site-390807972a.min.js" async="1"></script><!-- Start of StatCounter Code for Default Guide -->
+    <script type="text/javascript">
+      var sc_project=524599; 
+      var sc_invisible=1;
+      var sc_security=""
+    </script>
+    <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async="1"></script>
+    <noscript>
+      <div class="statcounter"><a title="web analytics"
+      href="http://www.statcounter.com/" target="_blank"><img
+      class="statcounter"
+      src="https://c.statcounter.com/524599/0//1/" alt="web analytics"></a></div>
+    </noscript><!-- End of StatCounter Code for Default Guide -->
+  </body>
+</html>
